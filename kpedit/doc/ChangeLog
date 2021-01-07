@@ -1,0 +1,14 @@
+KPedit ChangeLog:
+================
+
+2013-03-23 v0.1.1:
+ * dodano system wtyczek
+ * dolaczono zestaw rozszerzen do zaawansowanej edycji
+ * dodano cashowanie operacji i akcje cofnij/ponow
+ * dodano eksport do pliku wideo
+ * dodano zarzadzanie kolejnoscia klatek
+ * dodano proste ustawienia renderingu
+ * wiele poprawek bledow i kosmetyki
+
+2013-02-20 v0.1:
+ * pierwsza udostepniona wersja programu

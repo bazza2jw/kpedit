@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=kpedit
+Name=KPEdit
+Icon=/usr/share/icons/kpedit.png
+Type=Application
+Categories=AudioVideo;Video;AudioVideoEditing;
+Comment=A 2D skeletal animation editor
+GenericName=A 2D skeletal animation editor
+Comment[pl]=Edytor animacji szkieletowych 2D
+GenericName[pl]=Edytor animacji szkieletowych 2D
+Terminal=false

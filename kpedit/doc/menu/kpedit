@@ -1,0 +1,2 @@
+?package(kpedit): needs="X11" section="Applications/Video" \
+	title="KPEdit" longtitle="A 2D skeletal animation editor" icon="/usr/share/icons/kpedit.xpm" command="kpedit"
